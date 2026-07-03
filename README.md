@@ -24,3 +24,11 @@ Theoretical framework for the **HunTian (浑天)** manifold. We define a 4320-di
 - **熵旋平衡**：保持能量守恒的逻辑坍缩。
 - **克里斯托弗测地线分析**：基于曲率的寻址逻辑。
 - **拓扑编织**：主纽结哈希保护。
+
+## 关联仓库 Related Repositories
+
+| 仓库 | 内容 |
+|------|------|
+| [discrete-mathematics](https://github.com/triqchem-lab/discrete-mathematics) | Agda 形式化验证 |
+| [scholar-loop](https://github.com/triqchem-lab/scholar-loop) | Scholar Loop 实验引擎 |
+| [math](https://github.com/triqchem-lab/math) | GF(3) C++23 数学库 |
